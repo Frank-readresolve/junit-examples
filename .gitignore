@@ -1,0 +1,12 @@
+.metadata
+.settings
+
+.project
+.classpath
+
+target
+bin
+
+doc
+
+.DS_Store
